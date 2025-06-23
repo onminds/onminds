@@ -526,8 +526,8 @@ function App() {
               <img src={logo} alt="OnMinds Logo" className="h-16" />
               <div>
                 <p className="font-bold text-gray-200">주소</p>
-                <p>서울특별시 서초구 반포대로12길 41 R TOWER 6층 온마인즈 (우)06653</p>
-                <p className="text-gray-500 text-sm mt-1">41 Banpo-daero 12-gil, Seocho-gu, Seoul, R TOWER 6F, OnMinds (06653)</p>
+                <p>경기도 수원시 팔달구 갓매산로 51, 6층 601호 (우)16455</p>
+                <p className="text-gray-500 text-sm mt-1">601, 6F, 51 Gatmaesan-ro, Paldal-gu, Suwon-si, Gyeonggi-do (16455)</p>
               </div>
               <div>
                 <p className="font-bold text-gray-200">대표자</p>
